@@ -207,7 +207,3 @@
 197. HTML5+CSS3+Vue小实例：彩带圣诞树
 198. HTML5+CSS3+JS小实例：网页手电筒
 199. HTML5+CSS3小实例：不一样的超链接下划线
-
-#### 赞赏作者
-![image](https://gitee.com/wyanhui02/html_css_demo/raw/master/images/%E8%B5%9E%E8%B5%8F%E4%BD%9C%E8%80%85/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg)
-<!-- ![image](https://gitee.com/wyanhui02/html_css_demo/raw/master/images/%E8%B5%9E%E8%B5%8F%E4%BD%9C%E8%80%85/%E8%B5%9E%E8%B5%8F%E7%A0%812.jpg) -->
